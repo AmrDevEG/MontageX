@@ -3,7 +3,7 @@
   <!-- هيدر متحرك مع تأثير النجوم -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&customColorList=6,11,25&height=250&section=header&text=MontageX&fontSize=85&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%" alt="Header" />
 
-  <!-- نص يكتب تلقائياً (تم إصلاح الرابط وإزالة الرموز المسببة للخطأ) -->
+  <!-- نص يكتب تلقائياً -->
   <a href="#">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1500&color=00FFCC&center=true&vCenter=true&width=600&lines=The+Ultimate+Video+Editors+Companion;Supercharge+Your+Workflow;Boost+Your+Rendering+Speed" alt="Typing SVG" />
   </a>
@@ -23,7 +23,7 @@
 
   <br/><br/>
 
-  <!-- زر التحميل (تم إصلاح النص العربي ليعمل بشكل سليم) -->
+  <!-- زر التحميل -->
   <a href="../../releases/latest">
     <img src="https://img.shields.io/badge/Download_APK-2ea44f?style=for-the-badge&logo=android&logoColor=white" height="45" alt="Download APK" />
   </a>
@@ -90,9 +90,9 @@ It eliminates the tedious search for production assets by packing crucial plugin
 <div align="center">
   <p>تم بناء التطبيق باستخدام أحدث التقنيات لضمان أقصى سرعة وكفاءة:</p>
   <br/>
-  <!-- أيقونات متحركة للتقنيات -->
+  <!-- تم إصلاح أيقونات التقنيات لتظهر بشكل سليم -->
   <a href="https://flutter.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,go,android,materialui&theme=dark&perline=5" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=flutter,dart,go,androidstudio&theme=dark&perline=4" alt="Tech Stack" />
   </a>
 </div>
 
