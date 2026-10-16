@@ -1,6 +1,8 @@
-# 🚀 MontageX
-
 <div align="center">
+
+<img src="MontageX icon.png" alt="MontageX Logo" width="120" style="border-radius: 24px;" />
+
+# MontageX
 
 [![Flutter](https://img.shields.io/badge/Made%20with-Flutter-blue?logo=flutter)](https://flutter.dev)
 [![Go](https://img.shields.io/badge/Tools%20Powered%20by-GoLang-00ADD8?logo=go)](https://golang.org)
