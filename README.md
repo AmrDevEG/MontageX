@@ -1,104 +1,144 @@
 <div align="center">
 
-  <!-- هيدر متحرك مع تأثير النجوم -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&customColorList=6,11,25&height=250&section=header&text=MontageX&fontSize=85&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%" alt="Header" />
+  <img src="https://raw.githubusercontent.com/AmrDevEG/MontageX-Source/main/assets/MontageX%20icon.png" alt="MontageX Logo" width="130" style="border-radius: 28px; box-shadow: 0 10px 30px rgba(0,0,0,0.5);" />
 
-  <!-- نص يكتب تلقائياً -->
-  <a href="#">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1500&color=00FFCC&center=true&vCenter=true&width=600&lines=The+Ultimate+Video+Editors+Companion;Supercharge+Your+Workflow;Boost+Your+Rendering+Speed" alt="Typing SVG" />
-  </a>
-  
-  <br/><br/>
+  # 🎬 MontageX
+  ### The Ultimate Video Editing, VFX & Montage Creators Hub
+  **المنصة الشاملة والمتكاملة لمحرري الفيديو، مصممي المؤثرات البصرية، وصناع المحتوى**
 
-  <!-- أيقونة التطبيق -->
-  <img src="MontageX icon.png" alt="MontageX Logo" width="140" style="border-radius: 30px; box-shadow: 0 0 25px rgba(0, 255, 204, 0.4);" />
+  <p align="center">
+    <a href="https://flutter.dev"><img src="https://img.shields.io/badge/Built%20With-Flutter%203.x-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" /></a>
+    <a href="https://dart.dev"><img src="https://img.shields.io/badge/Dart-3.x-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/Platform-Android%20%7C%20iOS-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Platform" /></a>
+    <a href="https://t.me/Amr_x64"><img src="https://img.shields.io/badge/Telegram-@Amr__x64-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/Design-Glassmorphic%20Dark-8A2BE2?style=for-the-badge" alt="Design" /></a>
+  </p>
 
-  <br/><br/>
+  <p align="center">
+    <a href="#-english-overview">English</a> •
+    <a href="#-عربي--arabic-overview">العربية</a> •
+    <a href="#-key-features">Features</a> •
+    <a href="#-app-hubs--modules">Hubs</a> •
+    <a href="#-downloads">Downloads</a> •
+    <a href="#-author--community">Community</a>
+  </p>
 
-  <!-- أزرار التقنيات -->
-  <a href="https://flutter.dev"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" /></a>
-  <a href="https://dart.dev"><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" /></a>
-  <a href="https://golang.org"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" /></a>
-  <a href="https://android.com"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" /></a>
-
-  <br/><br/>
-
-  <!-- زر التحميل -->
-  <a href="../../releases/latest">
-    <img src="https://img.shields.io/badge/Download_APK-2ea44f?style=for-the-badge&logo=android&logoColor=white" height="45" alt="Download APK" />
-  </a>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="separator" />
 
 </div>
 
-<br/>
+<br />
 
-<!-- فاصل متحرك -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4300-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+---
 
-## 📖 Table of Contents | فهرس المحتوى
+## 🌐 English Overview
 
-- [About | نبذة عامة](#-about--نبذة-عامة)
-- [Key Features | المميزات](#-key-features--المميزات)
-- [Tech Stack | التقنيات المستخدمة](#-tech-stack--التقنيات-المستخدمة)
-- [Download & Installation | التحميل والتثبيت](#-download--installation--التحميل-والتثبيت)
+**MontageX** is a premier all-in-one mobile suite engineered with **Flutter**, crafted specifically to empower video editors, VFX designers, and content creators across the globe. 
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4300-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+MontageX eliminates the hassle of searching across multiple channels by gathering high-end **NodeVideo project files**, trending **gaming velocity curves (PUBG Mobile)**, viral **TikTok & Reels transitions**, professional **cinematic LUTs**, custom typography fonts, and sound effects—all wrapped in an ultra-sleek, hardware-accelerated dark glassmorphism interface.
 
-## 👾 About | نبذة عامة
+---
 
-<table>
-<tr>
-<td width="50%" dir="ltr">
+### ⚡ Key Features
 
-### 🌍 English
-**MontageX** is a cutting-edge mobile environment built specifically to supercharge the workflow of digital creators, video editors, and motion designers. 
+* 📱 **NodeVideo Creator Ecosystem:**
+  * Instant, high-speed CDN downloads for trending `.sol` and `.zip` NodeVideo project files.
+  * Direct APK installer and direct external download fallback.
+  * Interactive preview cards with smooth transitions.
 
-It eliminates the tedious search for production assets by packing crucial plugins, software utilities, system optimization tools, and comprehensive tutorials into one sleek, unified pocket experience.
+* 🎬 **Dedicated Hardware-Accelerated Video Player:**
+  * Native zero-buffering video player for previewing VFX effects and transitions before downloading.
+  * Fullscreen immersion mode, intuitive touch gesture seek, volume amplification, and seamless caching.
 
-</td>
-<td width="50%" dir="rtl">
+* 🎯 **PUBG & Gaming Montage Studio:**
+  * Curated velocity curves (smooth slow-mo & speed ramping).
+  * High-fidelity weapon kill sound effects, bass drops, and 3D camera shakes.
+  * Raw cinematic 4K/60FPS clips ready for montage editing.
 
-### 🌏 العربية
-تطبيق **MontageX** هو بيئة متكاملة صُممت خصيصاً للارتقاء بإنتاجية مصممي المونتاج والموشن جرافيك وصناع المحتوى.
+* 🔥 **Viral Reels & Shorts Hub:**
+  * Aesthetic color grading presets (LUTs) for cinematic looks.
+  * Trending glitch transitions, blur zooms, and motion graphic overlays.
 
-يضع التطبيق حداً لمعاناة البحث المستمر عن الملحقات والأدوات؛ حيث يجمع أهم الإضافات، البرامج المساعدة، أدوات تسريع الرندر، والشروحات الاحترافية في منصة واحدة سهلة الاستخدام بين يديك.
+* 🛠️ **Fonts, Plugins & Designer Tools:**
+  * Handpicked premium Arabic and English font collections (Forma DJR, Amira, Hacen, Moga, etc.).
+  * Essential PC plugins and utilities for Adobe After Effects and Premiere Pro.
 
-</td>
-</tr>
-</table>
+* 💎 **Glassmorphic Neomorphism UI:**
+  * Ultra-responsive high FPS animations, neon dark aesthetics, and complete bilingual support (**Arabic & English**) with instant persistence.
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4300-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+---
 
-## ✨ Key Features | المميزات
+## 🌍 عربي | Arabic Overview
+
+**مونتاج إكس (MontageX)** هو المنصة العربية الأولى المتكاملة والمصممة خصيصاً لتلبية كافة احتياجات محرر الفيديو وصانع المحتوى ومصمم المؤثرات البصرية (VFX).
+
+تم بناء التطبيق بأحدث تقنيات **Flutter** ليجمع لك في مكان واحد كل ما تحتاجه لتنفيذ مونتاج سينمائي احترافي: من مشاريع **NodeVideo** الجاهزة، منحنيات السرعة للألعاب (**PUBG Mobile**)، انتقالات وفلاتر **Reels & TikTok**، إلى أندر الخطوط العربية والإنجليزية والمؤثرات الصوتية النقية.
+
+---
+
+### 🌟 أبرز مميزات وأقسام التطبيق بالتفصيل
+
+1. 🧩 **مركز مشاريع نود فيديو (NodeVideo Hub):**
+   - تحميل فائق السرعة ومباشر عبر خوادم CDN لأحدث ملفات ومشاريع البريست (`.sol` و `.zip`).
+   - إمكانية تنزيل وتحديث تطبيق NodeVideo بأحدث إصدار مباشرة من داخل التطبيق أو عبر المتصفح.
+   - بطاقات استعراض ذكية توضح حجم الملف والتأثيرات المستخدمة.
+
+2. 🎥 **مشغل الفيديو السينمائي المدمج (Dedicated Video Player):**
+   - مشغل فيديو داخلي سريع وخفيف بدون أي تقطيع لمعاينة التأثيرات قبل تنزيلها.
+   - دعم كامل للشاشة العرضية والعمودية، مع إيماءات لمس ذكية للتقديم، الترجيع، والتحكم بالصوت.
+
+3. 🎯 **استوديو مونتاج ببجي والألعاب (PUBG Gaming Hub):**
+   - أفضل منحنيات السرعة (Velocity & Twixtor Presets) للحصول على حركة سلسة فائقة النعومة.
+   - مكتبة مؤثرات صوتية احترافية لضربات الأسلحة، القناصة، وانفجارات المونتاج (Sync SFX).
+   - لقطات سنمائية جاهزة للمونتاج بجودة عالية.
+
+4. ⚡ **قسم ترندات الريلز وتيك توك (Reels & Shorts Hub):**
+   - حزم تصحيح وتدريج الألوان الاحترافية (Cinematic LUTs).
+   - انتقالات زووم (Smooth Zoom) وتأثيرات الاهتزاز والتشويش البصري (Glitch & Shake).
+
+5. 🎨 **مكتبة الخطوط والأدوات (VFX Tools & Typography):**
+   - أضخم تشكيلة خطوط حصرية ومميزة (عربية وإنجليزية) مختارة بعناية للمصممين.
+   - ملحقات وإضافات برامج الكمبيوتر (After Effects و Premiere Pro).
+
+6. 🌙 **واجهة زجاجية عصرية فائقة السلاسة:**
+   - تصميم Glassmorphic داكن مريح للعين، يعمل بسرعة 60/120 إطار في الثانية.
+   - دعم كامل وتلقائي للغتين **العربية والإنجليزية** مع حفظ التفضيلات فوراً.
+
+---
+
+## 📥 Downloads & Releases | التحميل
+
+| Platform | Download Link | Notes |
+| :--- | :--- | :--- |
+| **Android (APK)** | [Download MontageX.apk](https://github.com/AmrDevEG/MontageX/releases) | Universal APK, Android 5.0+ |
+| **iOS (IPA)** | [Download MontageX.ipa](https://github.com/AmrDevEG/MontageX/releases) | Sideload via TrollStore / Scarlet / AltStore |
+
+---
+
+## 🛠️ Built With | التقنيات المستخدمة
+
+* **Framework:** [Flutter](https://flutter.dev) (v3.10+)
+* **Language:** [Dart](https://dart.dev)
+* **Networking & Downloads:** Dio & HTTP with resilient CDN failover
+* **Video Playback:** Hardware-accelerated `video_player`
+* **File Management:** `path_provider` & `open_file`
+
+---
+
+## 👤 Author & Community | المطور والتواصل
 
 <div align="center">
+  <p>Crafted with ❤️ and passion by <b>Amr (AmrDevEG)</b></p>
 
-| Icon | Feature (EN) | الوصف (AR) |
-| :---: | :--- | :--- |
-| 🧩 | **AE Plugins Hub** | مكتبة ضخمة وشاملة لأهم إضافات وبلاجنز After Effects مع سهولة التصفح. |
-| ⚡ | **Performance Utilities** | أدوات متقدمة لتسريع الجهاز وتحسين سرعة الرندر أثناء العمل. |
-| 📚 | **Step-by-Step Guides** | شروحات تقنية مبسطة بالفيديو والصور لخطوات تثبيت واستخدام الأدوات. |
-| 🔄 | **Smart OTA Updates** | نظام فحص تلقائي ذكي يجلب التحديثات والإصدارات الجديدة فور صدورها. |
-| 🎨 | **Modern Clean UI** | واجهة مستخدم مظلمة، سريعة، ومريحة للعين تم تصميمها لتلائم المبدعين. |
+  <a href="https://t.me/Amr_x64"><img src="https://img.shields.io/badge/Join_Telegram_Channel-t.me%2FAmr__x64-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="https://github.com/AmrDevEG"><img src="https://img.shields.io/badge/GitHub-AmrDevEG-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
+  <br /><br />
+  <p><b>انضم إلى قناتنا الرسمية على تيليجرام للحصول على أحدث البريستات، المشاريع الحصرية، والدعم المباشر!</b></p>
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4300-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-
-## 🛠️ Tech Stack | التقنيات المستخدمة
+---
 
 <div align="center">
-  <p>تم بناء التطبيق باستخدام أحدث التقنيات لضمان أقصى سرعة وكفاءة:</p>
-  <br/>
-  <!-- تم إصلاح أيقونات التقنيات لتظهر بشكل سليم -->
-  <a href="https://flutter.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,go,androidstudio&theme=dark&perline=4" alt="Tech Stack" />
-  </a>
-</div>
-
-<br/><br/>
-
-<div align="center">
-  <!-- فوتر متحرك -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&customColorList=6,11,25&height=100&section=footer" width="100%" alt="Footer" />
+  <sub>MontageX is maintained and continuously updated. © 2026 AmrDevEG. All rights reserved.</sub>
 </div>
