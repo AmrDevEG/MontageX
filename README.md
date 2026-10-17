@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="logo.png" alt="MontageX Logo" width="130" style="border-radius: 28px; box-shadow: 0 10px 30px rgba(0,0,0,0.5);" />
+  <img src="MontageX logo.png" alt="MontageX Logo" width="130" style="border-radius: 28px; box-shadow: 0 10px 30px rgba(0,0,0,0.5);" />
 
   # 🎬 MontageX
   ### The Ultimate Video Editing, VFX & Montage Creators Hub
