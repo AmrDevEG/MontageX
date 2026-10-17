@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="MontageX icon.png" alt="MontageX Logo" width="130" style="border-radius: 28px; box-shadow: 0 10px 30px rgba(0,0,0,0.5);" />
+  <img src="logo.png" alt="MontageX Logo" width="130" style="border-radius: 28px; box-shadow: 0 10px 30px rgba(0,0,0,0.5);" />
 
   # 🎬 MontageX
   ### The Ultimate Video Editing, VFX & Montage Creators Hub
@@ -9,17 +9,16 @@
   <p align="center">
     <a href="https://flutter.dev"><img src="https://img.shields.io/badge/Built%20With-Flutter%203.x-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" /></a>
     <a href="https://dart.dev"><img src="https://img.shields.io/badge/Dart-3.x-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/Platform-Android%20%7C%20iOS-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Platform" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/Platform-Android%20%7C%20iOS%20Official-3DDC84?style=for-the-badge&logo=apple&logoColor=white" alt="Platform" /></a>
     <a href="https://t.me/Amr_x64"><img src="https://img.shields.io/badge/Telegram-@Amr__x64-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/Design-Glassmorphic%20Dark-8A2BE2?style=for-the-badge" alt="Design" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/Release-APK%20%26%20IPA%20Available-FF4500?style=for-the-badge" alt="Release" /></a>
   </p>
 
   <p align="center">
+    <a href="#-downloads--releases--التحميل">Downloads</a> •
     <a href="#-english-overview">English</a> •
     <a href="#-عربي--arabic-overview">العربية</a> •
     <a href="#-key-features">Features</a> •
-    <a href="#-app-hubs--modules">Hubs</a> •
-    <a href="#-downloads">Downloads</a> •
     <a href="#-author--community">Community</a>
   </p>
 
@@ -31,11 +30,34 @@
 
 ---
 
+## 📥 Downloads & Releases | التحميل
+
+| Platform | Download Link | Installation Guide |
+| :--- | :--- | :--- |
+| **Android (APK)** | [⬇️ Download MontageX.apk](https://github.com/AmrDevEG/MontageX/releases) | Direct Install (Android 5.0+) |
+| **iOS (IPA)** | [🍏 Download MontageX.ipa](https://github.com/AmrDevEG/MontageX/releases) | Sideload via TrollStore / Scarlet / Sideloadly / AltStore |
+
+> [!IMPORTANT]
+> **⚠️ Notice for iOS Users regarding NodeVideo:**  
+> The in-app direct APK downloader for NodeVideo is designed exclusively for Android devices. If you are using an iPhone, simply download **NodeVideo from the official Apple App Store**. All project files (`.sol` / `.zip`), presets, cinematic LUTs, XML templates, and fonts inside MontageX will work seamlessly on your iPhone!
+
+> [!IMPORTANT]
+> **⚠️ تنبيه هام لمستخدمي الآيفون (iOS) بخصوص تطبيق NodeVideo:**  
+> ميزة التنزيل المباشر لملفات الـ APK لتطبيق NodeVideo الموجودة داخل التطبيق مخصصة لهواتف الأندرويد فقط. لمستخدمي الآيفون، يمكنكم تحميل تطبيق **NodeVideo مباشرة من متجر App Store الرسمي**، وستعمل جميع المشاريع والبريستات وملفات الـ XML والتأثيرات والخطوط الموجودة في MontageX على أجهزتكم بنسبة 100%!
+
+---
+
 ## 🌐 English Overview
 
-**MontageX** is a premier all-in-one mobile suite engineered with **Flutter**, crafted specifically to empower video editors, VFX designers, and content creators across the globe. 
+**MontageX** is a premier all-in-one mobile suite engineered with **Flutter**, crafted specifically to empower video editors, VFX designers, and content creators across the globe.
 
 MontageX eliminates the hassle of searching across multiple channels by gathering high-end **NodeVideo project files**, trending **gaming velocity curves (PUBG Mobile)**, viral **TikTok & Reels transitions**, professional **cinematic LUTs**, custom typography fonts, and sound effects—all wrapped in an ultra-sleek, hardware-accelerated dark glassmorphism interface.
+
+### 📱 Installing MontageX.ipa on iOS:
+You can easily sideload the official `.ipa` package using any of the following popular tools:
+* **TrollStore** *(Recommended for permanent installation on supported iOS versions)*
+* **Scarlet / ESign / Gbox** *(Direct on-device sideloading)*
+* **Sideloadly / AltStore** *(Easy USB installation via PC or Mac)*
 
 ---
 
@@ -43,7 +65,6 @@ MontageX eliminates the hassle of searching across multiple channels by gatherin
 
 * 📱 **NodeVideo Creator Ecosystem:**
   * Instant, high-speed CDN downloads for trending `.sol` and `.zip` NodeVideo project files.
-  * Direct APK installer and direct external download fallback.
   * Interactive preview cards with smooth transitions.
 
 * 🎬 **Dedicated Hardware-Accelerated Video Player:**
@@ -74,18 +95,23 @@ MontageX eliminates the hassle of searching across multiple channels by gatherin
 
 تم بناء التطبيق بأحدث تقنيات **Flutter** ليجمع لك في مكان واحد كل ما تحتاجه لتنفيذ مونتاج سينمائي احترافي: من مشاريع **NodeVideo** الجاهزة، منحنيات السرعة للألعاب (**PUBG Mobile**)، انتقالات وفلاتر **Reels & TikTok**، إلى أندر الخطوط العربية والإنجليزية والمؤثرات الصوتية النقية.
 
+### 📱 طريقة تثبيت نسخة الآيفون (MontageX.ipa):
+يمكن لمستخدمي نظام iOS تثبيت ملف الـ `.ipa` الرسمي بسهولة تامة عبر أي من الأدوات التالية:
+* **TrollStore** *(الخيار الأفضل للتثبيت الدائم بدون كمبيوتر للإصدارات المدعومة)*.
+* **Scarlet / ESign** *(التثبيت المباشر عبر الآيفون)*.
+* **Sideloadly / AltStore** *(التثبيت السريع عبر الكمبيوتر بكابل USB مجاناً)*.
+
 ---
 
 ### 🌟 أبرز مميزات وأقسام التطبيق بالتفصيل
 
 1. 🧩 **مركز مشاريع نود فيديو (NodeVideo Hub):**
    - تحميل فائق السرعة ومباشر عبر خوادم CDN لأحدث ملفات ومشاريع البريست (`.sol` و `.zip`).
-   - إمكانية تنزيل وتحديث تطبيق NodeVideo بأحدث إصدار مباشرة من داخل التطبيق أو عبر المتصفح.
    - بطاقات استعراض ذكية توضح حجم الملف والتأثيرات المستخدمة.
 
 2. 🎥 **مشغل الفيديو السينمائي المدمج (Dedicated Video Player):**
    - مشغل فيديو داخلي سريع وخفيف بدون أي تقطيع لمعاينة التأثيرات قبل تنزيلها.
-   - دعم كامل للشاشة العرضية والعمودية، مع إيماءات لمس ذكية للتقديم، الترجيع، والتحكم بالصوت.
+   - وضع الشاشة الكاملة التفاعلي مع إيماءات لمس ذكية للتقديم، الترجيع، والتحكم بالصوت.
 
 3. 🎯 **استوديو مونتاج ببجي والألعاب (PUBG Gaming Hub):**
    - أفضل منحنيات السرعة (Velocity & Twixtor Presets) للحصول على حركة سلسة فائقة النعومة.
@@ -106,22 +132,14 @@ MontageX eliminates the hassle of searching across multiple channels by gatherin
 
 ---
 
-## 📥 Downloads & Releases | التحميل
-
-| Platform | Download Link | Notes |
-| :--- | :--- | :--- |
-| **Android (APK)** | [Download MontageX.apk](https://github.com/AmrDevEG/MontageX/releases) | Universal APK, Android 5.0+ |
-| **iOS (IPA)** | ⏳ قريباً (Coming Soon) | Sideload via TrollStore / Scarlet / AltStore |
-
----
-
 ## 🛠️ Built With | التقنيات المستخدمة
 
 * **Framework:** [Flutter](https://flutter.dev) (v3.10+)
 * **Language:** [Dart](https://dart.dev)
+* **Design Pattern:** Custom Glassmorphic Dark UI
 * **Networking & Downloads:** Dio & HTTP with resilient CDN failover
-* **Video Playback:** Hardware-accelerated `video_player`
-* **File Management:** `path_provider` & `open_file`
+* **Media Playback:** Hardware-accelerated `video_player`
+* **File Management:** `path_provider` & native iOS Documents / Android Storage
 
 ---
 
