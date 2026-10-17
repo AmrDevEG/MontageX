@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/AmrDevEG/MontageX-Source/main/assets/MontageX%20icon.png" alt="MontageX Logo" width="130" style="border-radius: 28px; box-shadow: 0 10px 30px rgba(0,0,0,0.5);" />
+  <img src="logo.png" alt="MontageX Logo" width="130" style="border-radius: 28px; box-shadow: 0 10px 30px rgba(0,0,0,0.5);" />
 
   # 🎬 MontageX
   ### The Ultimate Video Editing, VFX & Montage Creators Hub
@@ -111,7 +111,7 @@ MontageX eliminates the hassle of searching across multiple channels by gatherin
 | Platform | Download Link | Notes |
 | :--- | :--- | :--- |
 | **Android (APK)** | [Download MontageX.apk](https://github.com/AmrDevEG/MontageX/releases) | Universal APK, Android 5.0+ |
-| **iOS (IPA)** | [Download MontageX.ipa](https://github.com/AmrDevEG/MontageX/releases) | Sideload via TrollStore / Scarlet / AltStore |
+| **iOS (IPA)** | ⏳ قريباً (Coming Soon) | Sideload via TrollStore / Scarlet / AltStore |
 
 ---
 
